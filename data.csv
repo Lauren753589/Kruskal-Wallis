@@ -1,0 +1,51 @@
+Material,Specimen,Face,Sa (um)
+Benchmark,1,Fracture,63
+Benchmark,1,Opposite,30
+Benchmark,2,Fracture,101
+Benchmark,2,Opposite,126
+Benchmark,3,Fracture,243
+Benchmark,3,Opposite,234
+Benchmark,4,Fracture,121
+Benchmark,4,Opposite,93
+Benchmark,5,Fracture,468
+Benchmark,5,Opposite,17
+Material 1,1,Fracture,100
+Material 1,1,Opposite,115
+Material 1,2,Fracture,81
+Material 1,2,Opposite,41
+Material 1,3,Fracture,56
+Material 1,3,Opposite,69
+Material 1,4,Fracture,68
+Material 1,4,Opposite,62
+Material 1,5,Fracture,16
+Material 1,5,Opposite,18
+Material 3,1,Fracture,97
+Material 3,1,Opposite,92
+Material 3,2,Fracture,98
+Material 3,2,Opposite,105
+Material 3,3,Fracture,61
+Material 3,3,Opposite,47
+Material 3,4,Fracture,45
+Material 3,4,Opposite,87
+Material 3,5,Fracture,43
+Material 3,5,Opposite,51
+Material 4,1,Fracture,17
+Material 4,1,Opposite,14
+Material 4,2,Fracture,15
+Material 4,2,Opposite,18
+Material 4,3,Fracture,23
+Material 4,3,Opposite,19
+Material 4,4,Fracture,26
+Material 4,4,Opposite,12
+Material 4,5,Fracture,53
+Material 4,5,Opposite,31
+Material 5,1,Fracture,14
+Material 5,1,Opposite,46
+Material 5,2,Fracture,31
+Material 5,2,Opposite,33
+Material 5,3,Fracture,25
+Material 5,3,Opposite,18
+Material 5,4,Fracture,31
+Material 5,4,Opposite,28
+Material 5,5,Fracture,16
+Material 5,5,Opposite,22

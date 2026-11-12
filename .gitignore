@@ -1,0 +1,10 @@
+# Keep data and figures out of the repository
+*.csv
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+*.pptx
+__pycache__/
